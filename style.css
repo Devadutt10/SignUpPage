@@ -34,6 +34,8 @@ input{
     width: 500px;
     font-size: 15px;
     padding: 10px;
+    border-radius: 20px;
+    border: 2px solid gray;
 }
 
 button{
